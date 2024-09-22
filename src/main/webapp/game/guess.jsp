@@ -1,4 +1,4 @@
-<%@ page import="com.systex.homework3.model.GuessGame" %>
+<%@ page import="com.systex.hw3.model.GuessGame" %>
 <%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <%@ include file="/common/bootstrap.jsp" %>
 <%@ include file="/common/navbar.jsp" %>
