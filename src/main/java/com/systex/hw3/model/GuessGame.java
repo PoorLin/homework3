@@ -1,4 +1,4 @@
-package com.systex.homework3.model;
+package com.systex.hw3.model;
 
 public class GuessGame {
     private int remains;

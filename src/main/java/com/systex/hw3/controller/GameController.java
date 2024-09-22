@@ -1,7 +1,6 @@
-package com.systex.homework3.controller;
+package com.systex.hw3.controller;
 
-import com.systex.homework3.model.GuessGame;
-import com.systex.homework3.service.LotteryService;
+import com.systex.hw3.model.GuessGame;
 import jakarta.servlet.RequestDispatcher;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
@@ -11,10 +10,7 @@ import jakarta.servlet.http.HttpServletResponse;
 import jakarta.servlet.http.HttpSession;
 
 import java.io.IOException;
-import java.io.PrintWriter;
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.LinkedList;
 import java.util.Map;
 
 @WebServlet(name = "gameController", value = "/game/gameController.do")

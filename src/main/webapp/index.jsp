@@ -7,7 +7,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>JSP - Hello World</title>
+    <title>精誠娛樂城</title>
 
 </head>
 <body class="d-flex flex-column min-vh-100">

@@ -1,6 +1,8 @@
-package com.systex.homework3.service;
+package com.systex.hw3.service;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.LinkedList;
 
 public class LotteryService {
 
